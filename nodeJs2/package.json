@@ -1,0 +1,19 @@
+{
+  "name": "nodejs2",
+  "version": "1.0.0",
+  "description": "server side javascript",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WonYoungYun/NodeJs_Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WonYoungYun/NodeJs_Project/issues"
+  },
+  "homepage": "https://github.com/WonYoungYun/NodeJs_Project#readme"
+}

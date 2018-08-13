@@ -1,0 +1,8 @@
+npm이란 node package manager
+javascript가 제공하는 모듈은 기본적으로 탑재되어있지만
+nodejs가 제공하는 모듈을 사용하기 위하여 npm을 이용하여 다운로드 한다. = node의 앱 스토어
+설치, 삭제, 업그레이드, 의존성관리
+https://www.npmjs.com
+
+
+uglyfy-js :코드를 간략화//minify    helloworld.min.js

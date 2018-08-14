@@ -2,7 +2,7 @@
   "name": "nodejs2",
   "version": "1.0.0",
   "description": "server side javascript",
-  "main": "helloworld.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/WonYoungYun/NodeJs_Project/issues"
   },
-  "homepage": "https://github.com/WonYoungYun/NodeJs_Project#readme"
+  "homepage": "https://github.com/WonYoungYun/NodeJs_Project#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "pug": "^2.0.3",
+    "supervisor": "^0.12.0"
+  }
 }

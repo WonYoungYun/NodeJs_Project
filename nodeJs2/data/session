@@ -1,0 +1,11 @@
+cookie를 개선시킨  session
+쿠키위의 세션
+
+response header의 connect.sid가 같다면 같은 사용자라고 인식할 수 있다.
+데이터를 사용자의 컴퓨터가 아니라 서버에 저장
+사용자의 식별자만 저장하고 식별자가 오게되면 로그인상태로판단
+
+
+
+npm install express-session 으로 설치가능
+express-session은 메모리에 저장되기 때문에 휘발성임

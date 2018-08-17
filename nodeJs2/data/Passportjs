@@ -1,0 +1,9 @@
+인증을 도와주는 Passportjs
+다른사이트에 가입할떄, 페이스북으로 가입하기, 네이버로 가입하기와 같은
+다른 사이트로 인증하는것, Federation Authentication(연합 인증)
+인증의 구현에 관한 복잡성이 낮아짐.
+
+https://passportjs.org
+
+
+Federation Authentication
